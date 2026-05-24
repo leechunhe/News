@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--quy định về type: 1 - thủ tục HQ, 2 - thuế xnk, 3 - chính sách thuế, 4 - xuất xứ hàng hóa, 5 - chính sách mặt hàng -->
+<vbpls>
+	<dateUpd>11/08/2025</dateUpd>
+	<vbpl>
+		<type>1</type>
+		<date>04/08/2025</date>
+		<links>tthq/VBM-thutuchq-details-0023.html</links>
+		<organ>Cục Hải Quan</organ>
+		<sohieu>1179/QĐ-CHQ</sohieu>
+		<quote>Quy trình kiểm tra, giám sát hải quan đối với hành lý của người xuất cảnh, nhập cảnh; phương tiện xuất cảnh, nhập cảnh, quá cảnh; phương tiện ra, vào cửa khẩu biên giới đường bộ</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>01/08/2025</date>
+		<links>tthq/VBM-thutuchq-details-0022.html</links>
+		<organ>Cục Hải Quan</organ>
+		<sohieu>17529/CHQ-GSQL</sohieu>
+		<quote>Hướng dẫn thực hiện tự động phân công công chức kiểm tra hồ sơ trên hệ thống VNACCS/VCIS</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>04/07/2025</date>
+		<links>tthq/VBM-thutuchq-details-0021.html</links>
+		<organ>Bộ Tài Chính</organ>
+		<sohieu>Quyết định số 2371/QĐ-BTC</sohieu>
+		<quote>Quyết định 2371/QĐ-BTC của Bộ Tài chính về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực hải quan thuộc phạm vi chức năng quản lý của Bộ Tài chính</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>03/07/2025</date>
+		<links>tthq/VBM-thutuchq-details-0020.html</links>
+		<organ>Cục Hải quan</organ>
+		<sohieu>12252/CHQ-GSQL</sohieu>
+		<quote>Cục Hải quan hướng dẫn thủ tục hải quan khi thay đổi địa chỉ theo phương án sắp xếp các đơn vị hành chính</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>31/07/2024</date>
+		<links>tthq/VBM-thutuchq-details-0019.html</links>
+		<organ>Chi cục Hải quan Tây Ninh</organ>
+		<sohieu>1539/TB-HQTN</sohieu>
+		<quote>THÔNG BÁO: Triển khai Hệ thống quản lý Hải quan tự động VASSCM</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>22/04/2024</date>
+		<links>tthq/VBM-thutuchq-details-0018.html</links>
+		<organ>Bộ Công thương</organ>
+		<sohieu>08/2024/TT-BCT</sohieu>
+		<quote>Sửa đổi, bổ sung một số Thông tư của Bộ trưởng Bộ Công Thương trong lĩnh vực xuất nhập khẩu</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>16/05/2024</date>
+		<links>tthq/VBM-thutuchq-details-0017.html</links>
+		<organ>Bộ Tài Chính</organ>
+		<sohieu>1131/QĐ-BTC</sohieu>
+		<quote>Phê duyệt Danh mục dịch vụ công trực tuyến toàn trình, dịch vụ công trực tuyến một phần của Bộ Tài chính</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>03/05/2024</date>
+		<links>tthq/VBM-thutuchq-details-0016.html</links>
+		<organ>Cục Hải quan Tỉnh BRVT</organ>
+		<sohieu>290/QD-HQBRVT</sohieu>
+		<quote>Về việc ban hành Quy định thực hiện công tác quản lý, kiểm tra, giám sát hải quan đối với hàng hóa vận chuyển bằng container đưa vào, lưu giữ, đưa ra đia điểm kiểm tra tập trung Cái Mép -Thị Vải</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>29/03/2024</date>
+		<links>tthq/VBM-thutuchq-details-0015.html</links>
+		<organ>Cục Hải quan Hà Nam Ninh</organ>
+		<sohieu>126/QĐ-HQHNN</sohieu>
+		<quote>V/v chấm dứt hiệu lực quyết định cưỡng chế thi hành quyết định hành chính về quản lý thuế bằng biện pháp dừng làm thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>01/04/2024</date>
+		<links>tthq/VBM-thutuchq-details-0014.html</links>
+		<organ>Chi Cục Hải quan Cái Mép</organ>
+		<sohieu>52/QĐ-HQCM</sohieu>
+		<quote>Về việc cưỡng chế thi hành quyết định hành chính về quản lý thuế bằng biện pháp trích tiền từ tải khoản của đối tượng bị cưỡng chế tại kho bạc nhà nước, tổ chức tín dụng</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>20/12/2023</date>
+		<links>tthq/VBM-thutuchq-details-0013.html</links>
+		<organ>Bộ Tài Chính</organ>
+		<sohieu>13870/BTC-TCHQ</sohieu>
+		<quote>V/v Sử dụng chứng từ thay thế hóa đơn bán hàng của DNCX</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>24/11/2023</date>
+		<links>tthq/VBM-thutuchq-details-0012.html</links>
+		<organ>Tổng cục Hải quan</organ>
+		<sohieu>6110/TCHQ-GSQL</sohieu>
+		<quote>Về việc thực hiện thủ tục hải quan đối với hàng hóa gửi qua dịch vụ chuyển phát nhanh</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>14/11/2023</date>
+		<links>tthq/VBM-thutuchq-details-0011.html</links>
+		<organ>Cục Hải quan TP. Hồ Chí Minh</organ>
+		<sohieu>3234/HQTPHCM-GSQL</sohieu>
+		<quote>V/v hướng dẫn thủ tục hải quan về quyền nhập khẩu của doanh nghiệp có vốn đầu tư nước ngoài</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>20/10/2023</date>
+		<links>tthq/VBM-thutuchq-details-0010.html</links>
+		<organ>Cục Hải quan TP. Hồ Chí Minh - Phòng GSQL</organ>
+		<sohieu>3013/HQTPHCM-GSQL</sohieu>
+		<quote>V/v hướng dẫn thủ tục nhập khẩu hàng hóa theo loại hình A41 từ kho ngoại quan</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>03/10/2023</date>
+		<links>tthq/VBM-thutuchq-details-0009.html</links>
+		<organ>Cục Hải quan TP. Hồ Chí Minh</organ>
+		<sohieu>2827/HQTPHCM-GSQL</sohieu>
+		<quote>	V/v hướng dẫn thủ tục sử dụng hợp đồng thầu trong hồ sơ hải quan</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>29/09/2023</date>
+		<links>tthq/VBM-thutuchq-details-0008.html</links>
+		<organ>Cục Hải quan TP. Hồ Chí Minh</organ>
+		<sohieu>2807/HQTPHCM-GSQL</sohieu>
+		<quote>V/v khai báo mã NVL, mã sản phẩm theo loại hình SXXK</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>22/09/2023</date>
+		<links>tthq/VBM-thutuchq-details-0007.html</links>
+		<organ>Cục Hải quan TP. Hồ Chí Minh - Phòng Giám sát quản lý</organ>
+		<sohieu>2726/HQTPHCM-GSQL</sohieu>
+		<quote>	V/v hướng dẫn thủ tục gia công thanh long sấy</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>15/09/2023</date>
+		<links>tthq/VBM-thutuchq-details-0006.html</links>
+		<organ>Cục Thuế XNK</organ>
+		<sohieu>4802/TCHQ-GSQ</sohieu>
+		<quote>V/v Hướng dẫn nhập khẩu văn hóa phẩm, xuất bản phẩm (Công ty Cổ phần VK Entertaiment)</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>13/09/2023</date>
+		<links>tthq/VBM-thutuchq-details-0005.html</links>
+		<organ>Cục Hải quan Hà Nam Ninh</organ>
+		<sohieu>462/QĐ-HQHNN</sohieu>
+		<quote>Về việc cưỡng chế thi hành quyết định hành chính về quản lý thuế bằng biện pháp dừng làm thủ tục hải quan đối với hàng hoá xuất khẩu, nhập khẩu</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>17/04/2023</date>
+		<links>tthq/VBM-thutuchq-details-0004.html</links>
+		<organ>Tổng cục HQ</organ>
+		<sohieu>1790/TCHQ-GSQL</sohieu>
+		<quote>Hiện nay, Tổng cục Hải quan đã hoàn thiện xây dựng hệ thống tiếp nhận kiểm tra, xác nhận Bản kê thông tin hàng hóa nhập khẩu điện tử đối với hàng hóa nhập khẩu qua cửa khẩu đường bộ, đường thủy nội địa theo công văn số 119/TCHQ-GSQL ngày 21/01/2021; công văn số 330/TCHQ-GSQL ngày 22/01/2021 và công văn 1503/TCHQ-GSQL ngày 02/04/2021 của Tổng cục Hải quan.</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>12/04/2023</date>
+		<links>tthq/VBM-thutuchq-details-0003.html</links>
+		<organ>CC HQ Quản lý hàng đầu tư</organ>
+		<sohieu>1062/ĐT-ĐNVĐTKD</sohieu>
+		<quote>Triển khai các quy định về hồ sơ miễn thuế</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>06/04/2023</date>
+		<links>tthq/VBM-thutuchq-details-0002.html</links>
+		<organ>Cục HQ Thanh hóa</organ>
+		<sohieu>645/HQTH-NV</sohieu>
+		<quote>	V/v công bố Danh mục văn bản quý phạm pháp luật hết hiệu lực</quote>
+	</vbpl>
+	<vbpl>
+		<type>1</type>
+		<date>06/04/2023</date>
+		<links>tthq/VBM-thutuchq-details-0001.html</links>
+		<organ>Cục HQ Thanh hóa</organ>
+		<sohieu>625/HQTH-NV</sohieu>
+		<quote>V/v triển khai các quyết định của Bộ Công Thương về áp dụng biện pháp tự vệ, chống lẩn tránh biện pháp phòng vệ thương mại</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>15/07/2025</date>
+		<links>thuexnk/VBM-thuexnk-details-0022.html</links>
+		<organ>Chính phủ</organ>
+		<sohieu>206/2025/NĐ-CP</sohieu>
+		<quote>V/v Biểu thuế nhập khẩu ưu đãi đặc biệt của Việt Nam để thực hiện Hiệp định thương mại giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa dân chủ nhân dân Lào giai đoạn 2025 - 2030</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>01/07/2025</date>
+		<links>thuexnk/VBM-thuexnk-details-0021.html</links>
+		<organ>Chính phủ</organ>
+		<sohieu>181/2025/NĐ-CP</sohieu>
+		<quote>V/v Quy định chi tiết thi hành một số điều của Luật Thuế giá trị gia tăng</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>01/07/2025</date>
+		<links>thuexnk/VBM-thuexnk-details-0020.html</links>
+		<organ>Chính phủ</organ>
+		<sohieu>182/2025/NĐ-CP</sohieu>
+		<quote>V/v Sửa đổi, bổ sung một số điều của Nghị định số 134/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thuế xuất khẩu, thuế nhập khẩu đã được sửa đổi, bổ sung một số điều theo Nghị định số 18/2021/NĐ-CP ngày 11 tháng 3 năm 2021 của Chính phủ.</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>01/07/2025</date>
+		<links>thuexnk/VBM-thuexnk-details-0019.html</links>
+		<organ>Bộ Tài chính</organ>
+		<sohieu>69/2025/TT-BTC</sohieu>
+		<quote>V/v Quy định chi tiết một số điều của Luật Thuế giá trị gia tăng và hướng dẫn thực hiện Nghị định số 181/2025/NĐ-CP ngày 01/07/2025 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế giá trị gia tăng</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>09/07/2024</date>
+		<links>thuexnk/VBM-thuexnk-details-0018.html</links>
+		<organ>Cục hải quan Thanh Hóa</organ>
+		<sohieu>1466/HQTH-NV</sohieu>
+		<quote>V/v tuyên truyền Nghị dịnh số 81/2024/NĐ-CP</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>16/11/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0017.html</links>
+		<organ>Tổng cục Hải quan</organ>
+		<sohieu>5962/TCHQ-VP</sohieu>
+		<quote>Đính chính văn bản 5739/TCHQ-TXNK</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>14/11/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0016.html</links>
+		<organ>Cục HQ TP Cần Thơ</organ>
+		<sohieu>1687/HQCT-NV</sohieu>
+		<quote>Báo cáo công khai thông tin người nộp thuế</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>14/11/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0015.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>21/2023/TT-BCT</sohieu>
+		<quote>Thông tư số 21/2023/TT-BCT ngày 14/11/2023 của Bộ Công Thương quy định về tạm ngừng kinh doanh tạm nhập, tái xuất gỗ tròn, gỗ xẻ từ rừng tự nhiên từ Lào và Campuchia</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>13/11/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0014.html</links>
+		<organ>Cục Thuế XNK</organ>
+		<sohieu>10463/TXNK-DTQLT</sohieu>
+		<quote>Người nộp thuế không hoạt động tại địa chỉ đã đăng ký</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>13/11/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0013.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>2974/QĐ-BCT</sohieu>
+		<quote>Về việc bổ sung miễn trừ áp dụng biện pháp chống bán phá giá đối với Công ty TNHH LG Electrics Việt Nam Hải Phòng</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>13/11/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0012.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>2977/QĐ-BCT</sohieu>
+		<quote>Về việc miễn trừ áp dụng biện pháp tự vệ đối với Công ty TNHH Công nghiệp New Best Wire Việt Nam</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>01/11/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0011.html</links>
+		<organ>Bộ Tài Chính</organ>
+		<sohieu>2866/QĐ-BTC</sohieu>
+		<quote>Về kết quả rà soát lần thứ nhất việc áp dụng biện pháp chống bán phá giá đối với một số sản phẩm sợi dài làm từ polyester có xuất xứ từ Cộng hòa Ấn Độ, Cộng hòa In-đô-nê-xi-a, Ma-lai-xi-a và Cộng hòa nhân dân Trung Hoa</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>12/10/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0010.html</links>
+		<organ>Chi cục Hải quan Tiên Sơn</organ>
+		<sohieu>680/HQBN-CCHQTS</sohieu>
+		<quote>	Thông báo Doanh nghiệp đã đăng ký tham gia Chương trình ưu đãi thuế theo Điều 9 NĐ số 26/2023/NĐ-CP</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>18/09/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0009.html</links>
+		<organ>	Tổng cục Hải quan</organ>
+		<sohieu>8316/TXNK-DTQLT</sohieu>
+		<quote>Người nộp thuế không hoạt động tại địa chỉ đã đăng ký</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>14/09/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0008.html</links>
+		<organ>Cục Hải quan TP. Cần Thơ</organ>
+		<sohieu>1358/HQCT-NV</sohieu>
+		<quote>Báo cáo công khai thông tin người nộp thuế</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>07/09/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0007.html</links>
+		<organ>Chính Phủ</organ>
+		<sohieu>68/2023/NĐ-CP1</sohieu>
+		<quote>V/v Sửa đổi, bổ sung một số điều của nghị định số 115/2022/NĐ-CP ngày 30 tháng 12 năm 2022 của Chính phủ ban hành Biểu thuế xuất khẩu, nhập khẩu ưu đãi đặc biệt của Việt Nam đễ thực hiện Hiệp định đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương giai đoạn 2022 - 2027</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>07/07/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0006.html</links>
+		<organ>Cục Hải quan tỉnh Đồng Nai</organ>
+		<sohieu>1252/HQĐNa-TXNK</sohieu>
+		<quote>	V/v Thực hiện Nghị định số 44/2023/NĐ-CP quy định chính sách giảm thuế GTGT (Các doanh nghiệp; Hiệp hội doanh nghiệp)</quote>
+	</vbpl>
+	
+	<vbpl>
+		<type>2</type>
+		<date>30/06/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0005.html</links>
+		<organ>Cục thuế XNK</organ>
+		<sohieu>3431/TCHQ-TXNK</sohieu>
+		<quote>V/v Thực hiện Nghị định số 44/2023/NĐ-CP</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>30/06/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0004.html</links>
+		<organ>Thủ tướng Chính phủ</organ>
+		<sohieu>NĐ 44/2023/NĐ-CP</sohieu>
+		<quote>Nghị định 44/2023/NĐ-CP của Chính phủ quy định chính sách giảm thuế giá trị gia tăng theo Nghị quyết 101/2023/QH15 ngày 24/6/2023 của Quốc hội</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>11/04/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0003.html</links>
+		<organ>Cục Thuế XNK</organ>
+		<sohieu>1648/TCHQ-TXNK</sohieu>
+		<quote>V/v Mã số HS mặt hàng (Công ty TNHH Advance Pharma Việt Nam)</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>04/04/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0002.html</links>
+		<organ>Cục thuế XNK</organ>
+		<sohieu>1500/TCHQ-TXNK</sohieu>
+		<quote>V/v Xử lý thuế TTĐB (Công ty Cổ phần Đầu tư A&amp;B)</quote>
+	</vbpl>
+	<vbpl>
+		<type>2</type>
+		<date>03/04/2023</date>
+		<links>thuexnk/VBM-thuexnk-details-0001.html</links>
+		<organ>Cục HQ Thanh hóa</organ>
+		<sohieu>614/HQTH-NV</sohieu>
+		<quote>V/v triển khai Chiến lược cải cách hệ thống thuế đến năm 2030</quote>
+	</vbpl>
+	
+	<vbpl>
+		<type>3</type>
+		<date></date>
+		<links>csthue/VBM-csthue-details-0009.html</links>
+		<organ>Bộ tài chính</organ>
+		<sohieu></sohieu>
+		<quote></quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>04/07/2025</date>
+		<links>csthue/VBM-csthue-details-0008.html</links>
+		<organ>Bộ tài chính</organ>
+		<sohieu>2371/QĐ-BTC</sohieu>
+		<quote>Công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực hải quan thuộc phạm vi chức năng quản lý của Bộ Tài chính</quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>17/06/2024</date>
+		<links>csthue/VBM-csthue-details-0007.html</links>
+		<organ>Chính Phủ</organ>
+		<sohieu>65/2024/NĐ-CP</sohieu>
+		<quote>Gia hạn thời hạn nộp thuế tiêu thụ đặc biệt với ô tô sản xuất, lắp ráp trong nước</quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>22/12/2023</date>
+		<links>csthue/VBM-csthue-details-0006.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>37/2023/TT-BCT</sohieu>
+		<quote>Về hạn ngạch thuế quan nhập khẩu mặt hàng muối, trứng gia cầm năm 2024</quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>22/11/2023</date>
+		<links>csthue/VBM-csthue-details-0005.html</links>
+		<organ>Cục Thuế XNK</organ>
+		<sohieu>6027/TCHQ-TXNK</sohieu>
+		<quote>V/v Thuế GTGT bộ đầu nối điện (Công ty TNHH Vật tư Hồng Đà Giang)</quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>16/11/2023</date>
+		<links>csthue/VBM-csthue-details-0004.html</links>
+		<organ>Cục Hải quan Thanh Hóa</organ>
+		<sohieu>2273/HQTH-NV</sohieu>
+		<quote>V/v triển khai QĐ về áp dụng biện pháp chống bán phá giá</quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>28/03/2023</date>
+		<links>csthue/VBM-csthue-details-0003.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>783/QĐ-BCT</sohieu>
+		<quote>Kết quả rà soát nhà xuất khẩu mới trong vụ việc áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại đối với một số sản phẩm đường mía (mã vụ việc NR01.AC02-AD13.AS01)</quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>21/03/2023</date>
+		<links>csthue/VBM-csthue-details-0002.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>693/QĐ-BCT</sohieu>
+		<quote>Gia hạn áp dụng biện pháp chổng lẩn tránh biện pháp phòng vệ thương mại.</quote>
+	</vbpl>
+	<vbpl>
+		<type>3</type>
+		<date>01/03/2023</date>
+		<links>csthue/VBM-csthue-details-0001.html</links>
+		<organ>Cục HQ Đồng Nai</organ>
+		<sohieu>354/HQĐNa-TXNK</sohieu>
+		<quote>V/v Chính sách thuế hàng nhập khẩu tại chỗ theo danh mục miễn thuế Dự án Nhà máy điện Nhơn Trạch 3 và Nhơn Trạch 4</quote>
+	</vbpl>
+	<vbpl>
+		<type>4</type>
+		<date>12/10/2023</date>
+		<links>xxhh/VBM-xxhh-details-0004.html</links>
+		<organ>Cục Giám sát quản lý</organ>
+		<sohieu>1618/GSQL-GQ4</sohieu>
+		<quote>Danh sách cảnh báo về lẫn tránh các biện pháp PVTM gian lận xuất xứ và chuyền tải bất hợp pháp</quote>
+	</vbpl>
+	<vbpl>
+		<type>4</type>
+		<date>06/09/2023</date>
+		<links>xxhh/VBM-xxhh-details-0003.html</links>
+		<organ>Cục Thuế XNK</organ>
+		<sohieu>4625/TCHQ-GSQL</sohieu>
+		<quote>V/v Hàng hóa thuộc diện áp dụng thuế chống bán phá giá (Công ty CP Sợi Thế Kỷ; Công ty CP hóa dầu và xơ sợi Việt Nam)</quote>
+	</vbpl>
+	<vbpl>
+		<type>4</type>
+		<date>23/12/2022</date>
+		<links>xxhh/VBM-xxhh-details-0002.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>37/2022/TT-BCT</sohieu>
+		<quote>Quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác kinh tế toàn diện ASEAN - Nhật Bản</quote>
+	</vbpl>
+	<vbpl>
+		<type>4</type>
+		<date>18/11/2022</date>
+		<links>xxhh/VBM-xxhh-details-0001.html</links>
+		<organ>Bộ Công Thương</organ>
+		<sohieu>32/2022/TT-BCT</sohieu>
+		<quote>Sửa đổi Thông tư số 05/2022/TT-BCT ngày 18/02/2022 của Bộ trưởng Bộ Công Thương quy định Quy tắc xuất xứ hàng hóa trong Hiệp định Đối tác Kinh tế toàn diện khu vực</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>11/06/2024</date>
+		<links>csmathang/VBM-csmathang-details-0018.html</links>
+		<organ>Bộ Y Tế</organ>
+		<sohieu>09/2024/TT-BYT</sohieu>
+		<quote>Thông tư số 09/2024/TT-BYT ngày 11/6/2024 của Bộ Y tế về việc danh mục thuốc, nguyên liệu làm thuốc dùng cho người và mỹ phẩm xuất khẩu, nhập khẩu đã được xác định nã số hàng hóa theo danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>29/11/2023</date>
+		<links>csmathang/VBM-csmathang-details-0017.html</links>
+		<organ>Tổng Cục Hải Quan</organ>
+		<sohieu>6156/TCHQ-GSQL</sohieu>
+		<quote>Công văn số 6156/TCHQ-GSQL ngày 29/11/2023 của Tổng cục Hải quan v/v thủ tục hải quan đối với hàng hóa gủi qua dịch vụ chuyển phát nhanh</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>02/11/2023</date>
+		<links>csmathang/VBM-csmathang-details-0016.html</links>
+		<organ>Thủ tướng Chính phủ</organ>
+		<sohieu>77/2023/NĐ-CP</sohieu>
+		<quote>Nghị định 77/2023/NĐ-CP về quản lý nhập khẩu hàng hóa tân trang theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>05/09/2023</date>
+		<links>csmathang/VBM-csmathang-details-0015.html</links>
+		<organ>Bộ Thông tin và Truyền Thông</organ>
+		<sohieu>10/2023/TT-BTTTT</sohieu>
+		<quote>Thông tư 10/2023/TT-BTTTT về Ngưng hiệu lực áp dụng quy định thi hành một phần/toàn bộ của một số quy chuẩn kỹ thuật tại Thông tư 04/2023/TT-BTTTT quy định Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn thuộc trách nhiệm quản lý của Bộ Thông tin và Truyền thông</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>18/04/2023</date>
+		<links>csmathang/VBM-csmathang-details-0014.html</links>
+		<organ>TCHQ</organ>
+		<sohieu>1798/TCHQ-GSQL</sohieu>
+		<quote>V/v Quản lý hoạt động xuất khẩu, nhập khẩu các chất HFC</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>21/03/2023</date>
+		<links>csmathang/VBM-csmathang-details-0013.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>691/QĐ-BCT</sohieu>
+		<quote>	Quyết định gia hạn áp dụng biện pháp tự vệ đối với sản phẩm thép dài nhập khẩu</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>20/03/2023</date>
+		<links>csmathang/VBM-csmathang-details-0012.html</links>
+		<organ>Cục điện ảnh</organ>
+		<sohieu>295/ĐA-PBP</sohieu>
+		<quote>Không cấp giấy phép nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh có nội dung là phim từ 01/01/2023</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>23/02/2023</date>
+		<links>csmathang/VBM-csmathang-details-0011.html</links>
+		<organ>Cục giám sát QL</organ>
+		<sohieu>248/GSQL-TH</sohieu>
+		<quote>	Cấp mã số nhân viên đại lý làm thủ tục hải quan</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0010.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2957/QĐ-BCT</sohieu>
+		<quote>Sửa đổi, bổ sung Quyết định 918/QĐ-BCT ngày 20/3/2022 của Bộ trưởng Bộ Công thương gia hạn áp dụng biện pháp tự vệ đối với sản phẩm phôi thép và thép dài nhập khẩu và...</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0009.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2958/QĐ-BCT</sohieu>
+		<quote>	Sửa đổi, bổ sung Quyết định 1919/QĐ-BCT ngày 30/9/2022 của Bộ trưởng Bộ Công thương áp dụng biện pháp chống bán phá giá tạm thời đối với một số sản phẩm bàn, ghế</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0008.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2959/QĐ-BCT</sohieu>
+		<quote>Sửa đổi, bổ sung Quyết định 1624/QĐ-BCT ngày 15/8/2022 của Bộ trưởng Bộ Công thương áp dụng biện pháp chống bán phá giá chính thức đối với một số sản phẩm vật liệu hàn</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0007.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2960/QĐ-BCT</sohieu>
+		<quote>Sửa đổi, bổ sung Quyết định 1514/QĐ-BCT ngày 01/8/2022 của Bộ trưởng Bộ Công thương áp dụng biện pháp chống lẩn tránh biện pháp phòng vệ thương mại đối với một số sản phẩm đường mía</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0006.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2961/QĐ-BCT</sohieu>
+		<quote>Sửa đổi, bổ sung Quyết định 1578/QĐ-BCT ngày 15/6/2021 của Bộ trưởng Bộ Công thương áp dụng thuế chống bán phá giá và thuế chống trợ cấp chính thức đối với một số sản phẩm đường mía</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0005.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2962/QĐ-BCT</sohieu>
+		<quote>	Sửa đổi, bổ sung Quyết định 1975/QĐ-BCT ngày 18/8/2021 của Bộ trưởng Bộ Công thương áp dụng thuế chống bán phá giá chính thức đối với một số sản phẩm thép hình chữ H có xuất xứ từ Ma-lai-xi-a</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0004.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2963/QĐ-BCT</sohieu>
+		<quote>	Sửa đổi, bổ sung Quyết định 2302/QĐ-BCT ngày 13/10/2021 của Bộ trưởng Bộ Công thương áp dụng thuế chống bán phá giá chính thức đối với một số sản phẩm sợi dài làm từ polyester và Quyết định số 928/QĐ-BCT ngày 13/5/2022....</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0003.html</links>
+		<organ>Bộ công thương</organ>
+		<sohieu>2964/QĐ-BCT</sohieu>
+		<quote>	Sửa đổi, bổ sung Quyết định 1283/QĐ-BCT ngày 20/4/2021 của Bộ trưởng Bộ Công thương về kết quả rà soát lần thứ nhất việc áp dụng biện pháp chống bán phá giá một số sản phẩm thép hợp kim hoặc không hợp kim được cán phẳng, được sơn</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>30/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0002.html</links>
+		<organ>TCHQ</organ>
+		<sohieu>5742/TCHQ-GSQL</sohieu>
+		<quote>	V/v quản lý khoáng sản xuất khẩu./.</quote>
+	</vbpl>
+	<vbpl>
+		<type>5</type>
+		<date>01/12/2022</date>
+		<links>csmathang/VBM-csmathang-details-0001.html</links>
+		<organ>Bộ tài chính</organ>
+		<sohieu>2454/HQTH-NV</sohieu>
+		<quote>V/v ngưng hiệu lực Thông tư số 31/2022/TT-BTC ngày 08/6/2022 của Bộ Tài Chính</quote>
+	</vbpl>
+</vbpls>
